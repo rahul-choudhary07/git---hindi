@@ -34,7 +34,7 @@ git merge bug-fix
 for  mergeing  of  branch in git  
 
  imp note 
-
+ config
 
   if  you are  using git  first  time  then 
      first  use  this  command for knowing 
@@ -44,4 +44,15 @@ git config --global user.name "Your Name"
 
 this use for  vonfig of  git  for  first  time  
 
+git  
+git 
+igt
+fid
+change default code editor
+You can change the default code editor in your system to vscode. To do this, you can use the following command:
 
+Terminal window
+git config --global core.editor "code --wait"
+
+gitignore
+Gitignore is a file that tells git which files and folders to ignore. It is a way to prevent git from tracking certain files or folders. You can create a gitignore file and add list of files and folders to ignore by using the following command:
